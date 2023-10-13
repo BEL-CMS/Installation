@@ -1,0 +1,24 @@
+/* TEAM */
+	BEL-CMS
+	Contact: admin [at] bel-cms.dev
+	Meta: https://www.facebook.com/Bel.CMS
+	From: Belgium
+
+	Developper: Determe Stive
+	Contact: Stive [at] determe.be
+	From: Belgium
+
+	Designer: Determe Stive
+	Contact: Stive [at] determe.be
+	Meta: https://www.facebook.com/Bel.CMS
+	From: Belgium
+                   [...]					
+/* THANKS */					
+    Name: http://palacewar.eu
+    Name: https://bel-cms.dev
+                   [...]                         
+/* SITE */                        
+	Last update: 2023/10/06
+	Standards: HTML5, CSS3
+	Components: jQuery.
+	Software: SublimeText 3 used for the development
